@@ -1,5 +1,6 @@
 # finnish_derivations
-This project is a part of my 2020 comparative study between morphological properties of French and Finnish available in French (DOI: 10.13140/RG.2.2.18236.05768/1): 
+This project is a part of my 2020 comparative study between morphological properties of French and Finnish available in French (DOI: 10.13140/RG.2.2.18236.05768/1):
+
 researchgate.net/publication/348191805_Possibilites_derivationnelles_selon_le_type_de_la_langue
 
 Its code executes the following steps:
