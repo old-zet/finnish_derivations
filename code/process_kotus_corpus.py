@@ -93,5 +93,5 @@ def find_noun_2_verb_relations(path: str):
 
 
 if __name__ == "__main__":
-    FILEPATH = 'D:/Memoire/original_databases/kotus-sanalista_v1.xml'
+    FILEPATH = 'C:/your-path/kotus-sanalista_v1.xml'
     find_noun_2_verb_relations(FILEPATH)
